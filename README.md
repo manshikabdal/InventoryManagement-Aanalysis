@@ -22,6 +22,6 @@
 * Created a view from stocks table.
 
 # Results 
-* This analysis helps in determining the right amount of stock to keep on-hand to fulfill the demand while avoiding overspending on inventory storage.
+* This analysis helped in determining the right amount of stock to keep on-hand to fulfill the demand while avoiding overspending on inventory storage.
 * With the help of analysis, the company can reduce storage and its related expenses.
 
